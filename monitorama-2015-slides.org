@@ -1,0 +1,36 @@
+* Monitorama 2015 slides
+** Signatures, Patterns & Trends
+- by [[https://twitter.com/andrew_clegg][Andrew Clegg]]
+- [[https://t.co/NmDAnfjDmR][goog drive]]
+** Incident Response and the Incident Complexity Framework
+- by [[https://twitter.com/asenchi][Curt Micol]]
+- [[https://speakerdeck.com/asenchi/incident-response-and-the-incident-complexity-framework][speakerdeck]]
+** Engineering Happiness
+- by [[https://twitter.com/lxt][Laura Thomson]]
+- [[https://speakerdeck.com/lauraxt/engineering-happiness][speakerdeck]]
+** Netflix Instance Performance Analysis Requirements
+- by Brendan Gregg (@brendangregg)
+- [[http://www.slideshare.net/brendangregg/monitorama-2015-netflix-instance-analysis][slideshare]]
+** A People's History of Microservices
+- by Camille Fournier (@skamille)
+- [[http://www.slideshare.net/CamilleFournier1/a-peoples-history-of-microservices][slideshare]]
+** Hard-to-Measure Things
+- by Chrissie Brodigan (@tenaciousb)
+- [[https://speakerdeck.com/chrissiebrodigan/measuring-hard-to-measure-things][speakerdeck]]
+** Monitoring OpenConnect CDN
+- by Sergey Fedorov
+- [[Fedorov://www.slideshare.net/sfedorov/monitorama-2015-monitoring-openconnect-cdn][slideshare]]
+** Breaking Production for Fun and Profit
+- [[http://www.daniellesucher.com/presentations/gamedays/#/][http]]
+- Dan Frank http://twitter.com/danielhfrank
+- Danielle Sucher http://twitter.com/DanielleSucher
+- Franklin Hu http://twitter.com/thisisfranklin
+** Working with Riemann
+- by Kyle Kingsbury (@aphyr)
+- [[https://aphyr.com/media/talks/2015/monitorama.pdf][pdf]]
+** Service Discovery @ Pinterest
+- by Jeremy Carroll (@jeremy_carroll)
+- [[https://speakerdeck.com/phobos182/service-discovery-at-pinterest][speakerdeck]]
+** Zero to Capacity Planning
+- by Ines Sombra (@randommood)
+- [[https://speakerdeck.com/randommood/zero-to-capacity-planning][speakerdeck]] / [[https://github.com/Randommood/ZerotoCapacityPlanning][github]]
